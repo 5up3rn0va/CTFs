@@ -1,3 +1,3 @@
-# GENERAL
+## GENERAL
 
-## Welcome!##
+### Welcome!
