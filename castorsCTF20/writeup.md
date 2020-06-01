@@ -12,3 +12,5 @@ castorsCTF{welcome_player_good_luck_and_have_fun}
 ## CODING
 
 ### Arithmetics
+![arithmetics](https://user-images.githubusercontent.com/47029515/83408550-6b12c880-a430-11ea-9faa-2b7bca57e580.png)
+
