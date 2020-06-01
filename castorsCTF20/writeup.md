@@ -14,3 +14,5 @@ castorsCTF{welcome_player_good_luck_and_have_fun}
 ### Arithmetics
 ![arithmetics](https://user-images.githubusercontent.com/47029515/83408550-6b12c880-a430-11ea-9faa-2b7bca57e580.png)
 
+Connecting to `nc chals20.cybercastors.com 14429` we get a bot that gives a number of simple arithmetic expressions that need to be solved very quickly. Looking around I find a similar challenge in [Alex CTF 2017](https://0xd13a.github.io/ctfs/alexctf2017/math-bot/).
+
