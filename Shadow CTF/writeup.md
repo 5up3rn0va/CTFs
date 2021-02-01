@@ -32,8 +32,6 @@ shadowCTF{Bow_T0_Th3_GOd}
 I searched for valhalla runes and found this site:
 https://valhyr.com/pages/rune-translator
 
-Each of the numbers represents an ascii code, convert it back to their character values:
-
 ```
 shadowCTF{odin was here}
 ```
